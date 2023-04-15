@@ -35,11 +35,5 @@
                 <goal>validate</goal>
             </goals>
         </action>
-        <action>
-            <actionName>CUSTOM-Maven Build</actionName>
-            <displayName>Maven Build</displayName>
-            <goals>
-                <goal>build</goal>
-            </goals>
-        </action>
+
     </actions>

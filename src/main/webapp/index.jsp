@@ -32,7 +32,6 @@
             <p>This is the homepage</p>  
         </main>
 
-
         <footer>
         </footer>
     </body>
